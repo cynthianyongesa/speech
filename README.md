@@ -4,10 +4,10 @@
 This repository contains the code and scripts used in the study titled "Decoding the Language of Aging: Unveiling Linguistic Patterns Associated with Cognitive Impairment due to Alzheimer's Disease". The repository includes all the necessary scripts for data pre-processing, feature extraction, statistical analysis, and visualization. 
 
 # Structure
-data/: Contains sample datasets (if any) or links to access the DementiaBank and AphasiaBank corpuses.
-scripts/: Includes all Python scripts used for data processing, analysis, and visualization.
-results/: Outputs of the analysis, including statistical summaries, figures, and tables.
-docs/: Documentation related to the project, including methodology details and references.
+- data/: Contains sample datasets (if any) or links to access the DementiaBank and AphasiaBank corpuses.
+- scripts/: Includes all Python scripts used for data processing, analysis, and visualization.
+- results/: Outputs of the analysis, including statistical summaries, figures, and tables.
+- docs/: Documentation related to the project, including methodology details and references.
 
 # Requirements
 Python 3.8+
@@ -40,10 +40,11 @@ The main results of the analysis, including significant linguistic markers and t
 ## Reproducibility
 To reproduce the analysis:
 
-Clone this repository.
-Ensure all dependencies are installed (pip install -r requirements.txt).
-Follow the steps outlined in the Usage section above.
-License
+1. Clone this repository.
+2. Ensure all dependencies are installed (pip install -r requirements.txt).
+3. Follow the steps outlined in the Usage section above.
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Citation/Contact
